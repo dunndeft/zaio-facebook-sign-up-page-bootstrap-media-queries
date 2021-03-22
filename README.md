@@ -1,4 +1,4 @@
-# zaio-facebook-sign-up-page-bootstrap-media-queries
+# zaio-facebook-sign-up-page-bootstrap
 
 Netlify: (Bootstrap) https://dunndeft-zaio-facebook-sign-up-page-bootstrap.netlify.app/
 
